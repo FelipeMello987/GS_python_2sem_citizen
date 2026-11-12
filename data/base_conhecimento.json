@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": ["cartao sus", "cartao do sus", "sus", "cns"],
+    "resposta": "Pode ser feito em uma UBS ou pelo app Meu SUS Digital, entrando com a conta gov.br. O CPF hoje é o principal identificador na rede pública.",
+    "documentos": ["Documento com foto (RG ou CNH)", "CPF", "Comprovante de residência"],
+    "onde": "UBS mais próxima ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/acesso-a-informacao/faq/tematicos-e-outros/como-conseguir-o-cartao-sus",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde",
+    "titulo": "Tomar vacinas e ver a carteira de vacinação",
+    "palavras_chave": ["vacina", "vacinas", "vacinacao", "caderneta de vacinacao"],
+    "resposta": "O SUS oferece vacinas gratuitas para idosos, como gripe, dupla adulto (difteria e tétano), hepatite B e covid-19, conforme o calendário. As doses aplicadas aparecem no Meu SUS Digital.",
+    "documentos": ["Documento com foto", "CPF ou Cartão SUS", "Caderneta de vacinação"],
+    "onde": "UBS da sua cidade ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-pessoa-idosa/vacinacao-da-pessoa-idosa",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Pegar remédios na Farmácia Popular",
+    "palavras_chave": ["remedio", "remedios", "medicamento", "farmacia popular"],
+    "resposta": "O programa tem 41 itens gratuitos para doenças como hipertensão, diabetes, asma e osteoporose. Só é entregue com receita médica válida, do SUS ou particular.",
+    "documentos": ["Documento com foto", "CPF", "Receita médica válida"],
+    "onde": "Farmácias com o selo Aqui Tem Farmácia Popular",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias/2024/julho/saiba-como-retirar-medicamentos-e-outros-itens-pelo-farmacia-popular",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 4,
+    "categoria": "Direitos",
+    "titulo": "Andar de graça no transporte coletivo",
+    "palavras_chave": ["transporte gratuito", "onibus", "gratuidade", "passe livre"],
+    "resposta": "A lei federal garante transporte coletivo urbano gratuito a partir de 65 anos. Na cidade de São Paulo, a gratuidade vale a partir de 60 anos, com cartão próprio. Para pedir o cartão, siga as regras da sua cidade.",
+    "documentos": ["Documento com foto", "CPF", "Comprovante de residência recente"],
+    "onde": "Site ou postos da SPTrans, subprefeituras ou postos Descomplica SP",
+    "fonte": "https://bilheteunico.sptrans.com.br/especial/pessoa-idosa/",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 5,
+    "categoria": "Direitos",
+    "titulo": "Ter atendimento prioritário em filas e serviços",
+    "palavras_chave": ["prioridade", "fila preferencial", "atendimento prioritario", "preferencial"],
+    "resposta": "Quem tem 60 anos ou mais tem prioridade em órgãos públicos, bancos, comércio e serviços de saúde. Quem tem 80 anos ou mais tem prioridade especial, exceto em emergência médica.",
+    "documentos": ["Documento com foto que mostre a idade"],
+    "onde": "Órgãos públicos, bancos, comércio e serviços em geral",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l10048.htm",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 6,
+    "categoria": "Direitos",
+    "titulo": "Denunciar violência contra a pessoa idosa",
+    "palavras_chave": ["disque 100", "denuncia", "violencia", "maus tratos", "abuso"],
+    "resposta": "Ligue para o Disque 100, gratuito e aberto 24 horas, todos os dias. Também atende pelo WhatsApp (61) 99611-0100. Não precisa de documento e a denúncia pode ser anônima. Se a violência estiver acontecendo agora, ligue 190.",
+    "documentos": [],
+    "onde": "Telefone 100, WhatsApp (61) 99611-0100 ou 190 em caso de emergência",
+    "fonte": "https://www.gov.br/mdh/pt-br/assuntos/noticias/2026/defeso-eleitoral/agosto/voce-sabe-como-denunciar-a-violencia-contra-pessoas-idosas",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 7,
+    "categoria": "Benefícios",
+    "titulo": "Pedir o BPC, benefício para idosos de baixa renda",
+    "palavras_chave": ["bpc", "loas", "beneficio assistencial", "beneficio"],
+    "resposta": "O BPC paga um salário mínimo por mês a quem tem 65 anos ou mais e renda por pessoa da família de até 1/4 do salário mínimo. É preciso estar no CadÚnico, com dados atualizados. O pedido é feito no Meu INSS ou pelo telefone 135.",
+    "documentos": ["Documento com foto", "CPF", "Inscrição no CadÚnico"],
+    "onde": "Aplicativo ou site Meu INSS, telefone 135 ou CRAS",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 8,
+    "categoria": "Benefícios",
+    "titulo": "Usar o Meu INSS para aposentadoria e extratos",
+    "palavras_chave": ["inss", "aposentadoria", "meu inss", "extrato", "135"],
+    "resposta": "No Meu INSS dá para pedir benefícios, agendar perícia, emitir extratos e acompanhar pedidos. O acesso é com a conta gov.br, e a maioria dos serviços exige nível prata ou ouro. O telefone de atendimento é o 135.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Site meu.inss.gov.br, aplicativo Meu INSS ou telefone 135",
+    "fonte": "https://www.gov.br/pt-br/temas/meu-inss",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 9,
+    "categoria": "Benefícios",
+    "titulo": "Fazer o CadÚnico para programas sociais",
+    "palavras_chave": ["cadunico", "cadastro unico", "cras", "programas sociais"],
+    "resposta": "O CadÚnico dá acesso a programas sociais como BPC, Bolsa Família e tarifa social de energia. Pode se inscrever quem tem renda de até meio salário mínimo por pessoa ou até três salários mínimos no total. O cadastro é feito no CRAS.",
+    "documentos": ["Documento com foto", "CPF ou título de eleitor", "Comprovante de endereço", "Documento de todos que moram na casa"],
+    "onde": "CRAS mais próximo da sua casa",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal",
+    "verificado_em": "2026-11-12"
+  },
+  {
+    "id": 10,
+    "categoria": "Acesso digital",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": ["gov br", "conta gov", "govbr", "criar conta", "senha"],
+    "resposta": "A conta gov.br é gratuita e dá acesso ao Meu INSS, ao Meu SUS Digital e a outros serviços públicos. Crie pelo app ou site gov.br com seu CPF e confirme a identidade por reconhecimento facial, banco parceiro ou perguntas pessoais.",
+    "documentos": ["CPF", "E-mail ou celular para receber o código"],
+    "onde": "Aplicativo ou site gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificado_em": "2026-11-12"
+  }
+]
