@@ -1,0 +1,14 @@
+data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo,nota
+2026-11-13 16:20:05,pergunta,quero remedios de graça,3,True,True,1,29.2,
+2026-11-13 16:20:45,pergunta,como faço um cartão do sus?,1,True,True,1,40.1,
+2026-11-13 16:21:14,categoria,,8,True,True,1,19.4,5
+2026-11-13 16:22:01,categoria,,10,True,True,1,7.6,
+2026-11-13 16:22:16,categoria,,6,True,True,1,9.3,
+2026-11-13 16:22:37,categoria,,5,True,True,1,20.8,5
+2026-11-13 16:23:14,pergunta,quero transporte de graça,,False,False,1,14.2,
+2026-11-13 16:23:40,categoria,,4,True,True,1,7.8,
+2026-11-13 16:23:59,pergunta,denunciar agressão,6,True,True,1,15.5,
+2026-11-13 16:24:08,pergunta,bom dia,,False,False,1,9.1,
+2026-11-13 16:24:18,categoria,,7,True,True,1,4.2,
+2026-11-13 16:24:42,pergunta,criar conta gov,10,True,True,1,17.1,
+2026-11-13 16:25:28,pergunta,remedio de graça,3,True,True,1,46.6,5
